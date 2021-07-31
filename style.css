@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: lime;
+    color: black;
+}
+div{
+    margin-top: 15px;
+}
+
+#pic1{
+    height: 400px;
+    width: 400px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#pic2{
+    height: 400px;
+    width: 400px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#pic3{
+height: 400px;
+ width: 400px;
+ margin-left: 25px;
+ margin-right: 25px;
+}
+#pic4{
+height: 400px;
+ width: 400px;
+ margin-left: 25px;
+ margin-right: 25px;
+}
+.text{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: cyan;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 20px;
+   
+}
